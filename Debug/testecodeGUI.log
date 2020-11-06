@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\T-Gamer\source\repos\testecodeGUI\main.cpp(19): warning C4715: 'WindowProcedure': nem todos os caminhos de controle retornam um valor
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: símbolo externo não resolvido, _WinMain@16, referenciado na função "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\T-Gamer\source\repos\testecodeGUI\Debug\testecodeGUI.exe : fatal error LNK1120: 1 externo não resolvidos

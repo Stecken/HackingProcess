@@ -1,0 +1,2 @@
+C:\Users\T-Gamer\source\repos\testecodeGUI\x64\Debug\testecodeGUI.exe
+C:\Users\T-Gamer\source\repos\testecodeGUI\x64\Debug\testecodeGUI.pdb
